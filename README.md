@@ -36,4 +36,6 @@ PULL :
 3) git fetch origin [BRANCH_NAME] 			//Pull remote branch to local and switch branches
 
 4) git clone [REMOTE_DEPOSITORY_LINK]		//Clone a repository from the remote repository into a local folder
+
+5) git pull
 __________________________________________________________________________________________________________________________
