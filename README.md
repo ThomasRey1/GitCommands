@@ -11,7 +11,7 @@ CONFIG :
 
 __________________________________________________________________________________________________________________________
 PUSH :
-1) git remote add origin [REMOTE_DEPOSITORY_LINK]
+1) git remote add origin [REMOTE_DEPOSITORY_LINK]			//Add a remote repository origin to PUSH / PULL folder/s
 
 2) git status 								//Define the folders which were modified and so sendable to the remote repository
 
